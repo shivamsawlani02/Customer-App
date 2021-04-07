@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DS ग्राहक</string>
+
+    <string name="home">होम</string>
+    <string name="orders">ऑर्डर</string>
+    <string name="profile">प्रोफ़ाइल</string>
+    <string name="dairy_system">डेयरी प्रणाली</string>
+    <string name="email">ईमेल</string>
+    <string name="phone_number">मोबाइल नंबर </string>
+    <string name="address">पता</string>
+    <string name="city">शहर</string>
+    <string name="connected_milkman">जुड़े हुए मिल्कमैन :</string>
+    <string name="milkman">दूधवाला :</string>
+    <string name="rate_milkman">रेट Milkman</string>
+    <string name="disconnect">छोड़ें</string>
+    <string name="due_amount">देय राशि</string>
+    <string name="products_available">प्रस्तुत श्रेणियाँ: :</string>
+    <string name="no_product_available">वर्तमान में कोई भी उत्पाद उपलब्ध नहीं है</string>
+    <string name="raise_query">प्रश्न उठाएँ</string>
+    <string name="enter_description">विवरण दर्ज करें</string>
+    <string name="send">भेजें</string>
+    <string name="pr_kg">केजी के अनुसार</string>
+    <string name="total_amount">कुल रकम</string>
+    <string name="mikman_name">दूधवाले का नाम</string>
+    <string name="milkman_no">दूधवाले का मोबाइल नंबर</string>
+    <string name="details">विवरण</string>
+
+    <string name="connect_to_milkman">मिल्कमैन से कनेक्ट करें</string>
+    <string name="self_log">स्व लॉग</string>
+    <string name="good_morning">शुभ प्रभात,</string>
+    <string name="or">या</string>
+    <string name="select_milkman">दूधवाले का चयन करें</string>
+    <string name="next">आगे</string>
+    <string name="select_milk_type">दूध के प्रकार का चयन करें</string>
+    <string name="amount">रकम</string>
+    <string name="enter_quantity">मात्रा दर्ज करें</string>
+    <string name="back">वापस</string>
+    <string name="added">जोड़ा गया</string>
+    <string name="order_summary">ऑर्डर सारांश</string>
+    <string name="usual_order">सामान्य ऑर्डर</string>
+    <string name="edit">परिवर्तन करें</string>
+    <string name="select">चयन करें</string>
+    <string name="save">Save</string>
+    <string name="cancel">रद्द करें</string>
+    <string name="finish">पूर्ण</string>
+    <string name="add_another">एक और जोड़ें</string>
+
+    <string name="few_more_steps">कुछ और कदम</string>
+    <string name="verification">सत्यापन</string>
+    <string name="entered_mobile_number">दिया गया मोबाइल नंबर</string>
+    <string name="enter_otp">कृपया ओ टी पी लिखें</string>
+    <string name="resend_the_code_again_in">ओ टी पी फिर से प्राप्त करने के लिए क्लिक करें।</string>
+    <string name="wrong_otp">ओटीपी गलत है</string>
+    <string name="enter_mobile_number">मोबाइल नंबर दर्ज करें</string>
+    <string name="welcome">WELCOME/स्वागत</string>
+    <string name="register">रजिस्टर</string>
+    <string name="enter_name">नाम</string>
+    <string name="enter_email_optional">ईमेल /वैकल्पिक</string>
+    <string name="proceed">जारी रखें</string>
+
+    <string name="enter_house_number">मकान नंबर</string>
+    <string name="enter_colony_society">कॉलोनी/ क्षेत्र</string>
+    <string name="enter_city">शहर</string>
+    <string name="enter_postal_code">डाक कोड</string>
+
+    <string name="logout">लॉग आउट</string>
+    <string name="recommendations">सिफ़ारिश</string>
+    <string name="about">हमारे बारे में</string>
+
+    <string name="navigation_drawer_open">Open Navigation Drawer</string>
+    <string name="navigation_drawer_close">Close Navigation Drawer</string>
+    <string name="change_language">Change Language/भाषा बदलो</string>
+    <string name="choose_language">Choose Language/भाषा चुनें</string>
+    <string name="english">English</string>
+    <string name="hindi">हिन्दी</string>
+
+    <string name="add_self_log">सेल्फ लॉग जोड़ें</string>
+    <string name="select_month_and_year">महीना और वर्ष चुनें</string>
+    <string name="ask_milkman_to_scan_qr_code_to_connect">मिल्कमैन को कनेक्ट करने के लिए QR कोड स्कैन करने के लिए कहें</string>
+    <string name="product_name">उत्पाद का नाम</string>
+    <string name="price">कीमत</string>
+    <string name="add">जोड़ें</string>
+    <string name="pdf">पीडीएफ</string>
+    <string name="excel">एक्सेल</string>
+    <string name="last_order">नवीनतम ऑर्डर:</string>
+    <string name="order_invoice">ऑर्डर रसीद</string>
+    <string name="you_are_not_connected_to_any_milkman">आप किसी दूधवाले से नहीं जुड़े हैं</string>
+
+    <string name="add_milkman">दूधवाला जोड़ें</string>
+    <string name="milkman_s_name">दूधवाले का नाम</string>
+    <string name="milkman_s_mobile_number">दूधवाला का मोबाइल नंबर</string>
+    <string name="add_product">उत्पाद जोड़ें</string>
+    <string name="product_s_name">उत्पाद का नाम</string>
+    <string name="product_s_price">उत्पाद की कीमत</string>
+    <string name="usual_quantity_delivered_optional">सामान्य मात्रा वितरित (वैकल्पिक)</string>
+    <string name="skip">छोड़ें</string>
+    <string name="add_new_milkman">नया दूधवाला जोड़ें</string>
+    <string name="add_new_product">नया उत्पाद जोड़ें</string>
+    <string name="recommendation">सिफ़ारिश</string>
+    <string name="rating">रेटिंग</string>
+    <string name="categories_offered">उपलब्ध श्रेणियाँ</string>
+    <string name="categories">श्रेणियाँ</string>
+    <string name="add_order">ऑर्डर जोड़ें</string>
+    <string name="delivery_person_near_you">आप के नज़दीक उपलब्ध डिलीवरी पर्सन</string>
+    <string name="name">नाम:</string>
+    <string name="almost_there">लगभग हो गया.</string>
+
+    <string name="name_is_required">नाम आवश्यक है</string>
+    <string name="invalid_mobile_number">अमान्य मोबाइल नंबर</string>
+    <string name="product_name_is_required">उत्पाद का नाम आवश्यक है</string>
+    <string name="product_price_is_required">उत्पाद की कीमत आवश्यक है</string>
+    <string name="add_atleast_one_product">कम से कम एक उत्पाद जोड़ें</string>
+    <string name="selflog_added_successfully">स्व लॉग सफलतापूर्वक जोड़ा गया</string>
+    <string name="you_have_no_past_order">आपके पास कोई पिछले ऑर्डर नहीं हैं.</string>
+    <string name="milkman_disconnected">मिल्कमैन डिस्कनेक्टेड</string>
+    <string name="are_you_sure_to_disconnect">क्या आप डिस्कनेक्ट करने के लिए सुनिश्चित हैं ?</string>
+    <string name="clear_due_amount">कुछ राशि अभी भी बकाया है, डिस्कनेक्ट करने से पहले देय राशि को साफ़ करें</string>
+    <string name="download_pdf_viewer">उत्पन्न पीडीएफ देखने के लिए एक पीडीएफ दर्शक डाउनलोड करें</string>
+    <string name="no_order_available">कोई ऑर्डर उपलब्ध नहीं है</string>
+    <string name="ok">ठीक है</string>
+    <string name="allow_storage_access">स्टोरेज तक पहुंच की अनुमति दें</string>
+    <string name="code_is_wrong">सत्यापन कोड गलत है</string>
+    <string name="select_one_milkman">कृपया आगे बढ़ने के लिए किसी एक मिल्कमैन का चयन करें</string>
+    <string name="select_one_to_proceed">कृपया आगे बढ़ने के लिए कम से कम एक प्रकार का चयन करें</string>
+    <string name="fill_all_quantities">कृपया सभी मात्रा फ़ील्ड भरें</string>
+    <string name="update_usual_order">सामान्य आदेश अब अद्यतन किया गया है</string>
+    <string name="orders_added_to_selflog">आदेश स्व लॉग में जोड़ा गया</string>
+    <string name="product_added_successfully">उत्पाद सफलतापूर्वक जोड़ा गया</string>
+    <string name="query_raised_successfully">प्रश्न को सफलतापूर्वक उठाया गया है</string>
+    <string name="first_complete_editing">चयन नहीं कर सकते, पहले संपादन को पूरा करें</string>
+    <string name="export_as">एक्सपोर्ट</string>
+    <string name="mobile_no">मोबाइल नंबर:</string>
+
+    <string name="menu">मेन्यू</string>
+    <string name="menu_tutorial">यहां से आप अपनी प्रोफ़ाइल और अन्य ऐप सेटिंग प्रबंधित कर सकते हैं</string>
+    <string name="connect_milkman_tutorial">आप यहां से आप को दूध पहुंचाने वाले दूधवाले से जुड़ सकते हैं</string>
+    <string name="self_log_tutorial">आप यहां से अपना स्व लॉग जोड़ सकते हैं और प्रबंधित कर सकते हैं</string>
+    <string name="order_tutorial">आप किसी विशेष तिथि के ऑर्डर को देखने के लिए उस तिथि पर टैप कर सकते हैं</string>
+    <string name="connected_milkman_tutorial">जुड़े दूधवाले की सूची और उनके विवरण यहां देखें।</string>
+
+    <string name="settle_due_amount_to_zero">देय राशि शून्य करें</string>
+    <string name="sure_to_settle_to_zero">क्या आप देय राशि शून्य करना सुनिश्चित करते हैं</string>
+    <string name="amount_updated_to_zero">देय राशि शून्य हो गयी</string>
+    <string name="amount_is_already_zero">देय राशि पहले से ही शून्य है</string>
+
+</resources>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:map="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    >
+
+    <fragment xmlns:android="http://schemas.android.com/apk/res/android"
+
+        xmlns:map="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:id="@+id/map"
+        android:name="com.google.android.gms.maps.SupportMapFragment"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context=".Geolocation" >
+
+    </fragment>
+
+
+
+<!--    <Button-->
+
+<!--        android:id="@+id/storelocation"-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:textStyle="bold"-->
+<!--        android:text="Set location">-->
+<!--    </Button>-->
+
+    <com.example.kloadingspin.KLoadingSpin
+
+        android:id="@+id/KLoadingSpin"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="250dp"
+        map:backgroundColor=" #00000000 "
+        map:primarySpinnerColor="#fff"
+        map:rotationSpeedInMs="1000"
+        map:secondarySpinnerColor="#2b7acf"
+        map:text="Getting Deliver Person Near you"
+        map:textColor="#ffffff"
+        map:textSize="40" />
+
+
+<!--    <LinearLayout-->
+<!--        android:background="@drawable/linearlayout"-->
+<!--        android:id="@+id/linerrecomend"-->
+<!--        android:layout_width="match_parent"-->
+
+<!--        android:layout_height="120dp"-->
+<!--        android:layout_alignParentBottom="true"-->
+<!--        android:orientation="vertical">-->
+<!--        <TextView-->
+<!--            android:layout_width="wrap_content"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:textSize="30dp"-->
+<!--            android:layout_gravity="center_horizontal"-->
+<!--            android:layout_marginTop="15dp"-->
+<!--            android:textColor="#fff"-->
+<!--            android:text="Recommendation">-->
+
+<!--        </TextView>-->
+<!--    </LinearLayout>-->
+
+    <include layout="@layout/bottomsheet"></include>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/skip"
+        android:id="@+id/skip"
+        android:textColor="#fff"
+        android:layout_margin="10dp"
+        android:layout_alignParentLeft="true"
+        android:background="@drawable/roundbutton"></Button>
+
+
+
+</RelativeLayout>
